@@ -1,0 +1,20 @@
+{
+  "name": "ChoiceImage",
+  "description": "Choice Hotels Redesign & Replatform",
+  "version": "0.1.0",
+  "authors": [
+    "Team R&R <_2dc4b8@choicehotels.com>"
+  ],
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-image-resize": "^0.6.0",
+    "imagemin": "latest",
+    "imagemin-jpegtran": "latest",
+    "imagemin-pngquant": "^2.0.0",
+    "imagemin-svgo": "^2.0.0",
+    "yargs": "latest"
+  },
+  "dependencies": {
+    "imagemin-optipng": "^2.0.1"
+  }
+}
